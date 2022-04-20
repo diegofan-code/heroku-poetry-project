@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live de Python 162</title>
+    <link rel="stylesheet" href="https://unpkg.com/terminal.css@0.7.2/dist/terminal.min.css" />
+</head>
+<body>
+    <form action="/post" method="POST">
+        <label for="nome">Nome</label>
+        <br/>
+        <input name="nome" type="text" value="">
+        <br/>
+        <label for="comentario">Comentário</label>
+        <br/>
+        <textarea name="comentario" id="" cols="30" rows="10"></textarea>
+        <br>
+        <input name="" type="submit" value="Enviar!">
+    </form>
+    <h1>Timeline de Eventos</h1>
+    <div class="terminal-timeline">
+        {% for comment in comments %}
+        <div class="terminal-card">
+            <header>
+                {{ comment.nome}} - {{ comment.id }}
+            </header>
+            <div>
+                {{ comment.comentario }}
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+</body>
+</html>
