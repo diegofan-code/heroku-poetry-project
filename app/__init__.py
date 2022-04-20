@@ -25,7 +25,7 @@ def create_app():
         return render_template(
             'index.html',
              comments = Comentario.query.order_by(
-                 Comentario.id
+                 Comentario.id.desc()
              ).limit(20).all()
                  
         )
