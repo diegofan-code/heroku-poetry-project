@@ -1,0 +1,26 @@
+alembic @ file:///home/diego.fan/.cache/pypoetry/artifacts/a5/74/72/724fd20a7a9f1266c6ef41ca61901895085be5a5cdfa193b4ed215db7d/alembic-1.7.7-py3-none-any.whl
+Brotli @ file:///home/diego.fan/.cache/pypoetry/artifacts/45/7f/49/78d9ee720d53fc134160d1ad19bf7b213d28b4c08a783fc93da586a960/Brotli-1.0.9-cp38-cp38-manylinux1_x86_64.whl
+click @ file:///home/diego.fan/.cache/pypoetry/artifacts/f0/23/09/b13d61d1fa8b3cd7c26f67505638d55002e7105849de4c4432c28e1c0d/click-8.1.2-py3-none-any.whl
+dash @ file:///home/diego.fan/.cache/pypoetry/artifacts/1a/b6/6a/8eaac12cf00247e7490a7c109bf36c6e848f0fa8213697db549449a3de/dash-2.3.1-py3-none-any.whl
+dash-core-components @ file:///home/diego.fan/.cache/pypoetry/artifacts/28/40/ee/07b515272a2e6b7434f8c8276de69692c52c6c6f3a5870655b6e7a223a/dash_core_components-2.0.0-py3-none-any.whl
+dash-html-components @ file:///home/diego.fan/.cache/pypoetry/artifacts/e1/be/58/54f3b25781eb33e98bddb5fe125ae92f2deebd277fce151daf8440998e/dash_html_components-2.0.0-py3-none-any.whl
+dash-table @ file:///home/diego.fan/.cache/pypoetry/artifacts/7c/82/cd/33a189e9e538628468c86317f167bff7db85d5d6f890c8e964df724923/dash_table-5.0.0-py3-none-any.whl
+Flask @ file:///home/diego.fan/.cache/pypoetry/artifacts/7d/f6/22/7e0122e8efc0cf2e89fde73d6ff58b627946faa62f625e38669fa5a6e4/Flask-2.1.1-py3-none-any.whl
+Flask-Compress @ file:///home/diego.fan/.cache/pypoetry/artifacts/f2/fd/09/3a205ac7e0406ab40634c5bfdee558ca8fbfd4068be1680703130f10cb/Flask_Compress-1.11-py3-none-any.whl
+Flask-Migrate @ file:///home/diego.fan/.cache/pypoetry/artifacts/b8/ce/c4/78d73549f7623e0f1692a783532f01b98c4fde93431ec4413461f09da2/Flask_Migrate-3.1.0-py3-none-any.whl
+Flask-SQLAlchemy @ file:///home/diego.fan/.cache/pypoetry/artifacts/32/be/a1/8f73762066fcb1b4eb7ef71f39a6521d13f0e21f356ffbccd2b986f4fb/Flask_SQLAlchemy-2.5.1-py2.py3-none-any.whl
+greenlet @ file:///home/diego.fan/.cache/pypoetry/artifacts/b3/f0/eb/79b793c70b50de453930861de26715a48f4f7ff1969adf045ec83a3a8a/greenlet-1.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+gunicorn @ file:///home/diego.fan/.cache/pypoetry/artifacts/eb/33/9c/43e158642e15413395d933fef80bb16fa6b50a6ed8dd157f506b6b2c03/gunicorn-20.1.0-py3-none-any.whl
+importlib-metadata==4.11.3
+importlib-resources==5.7.1
+itsdangerous @ file:///home/diego.fan/.cache/pypoetry/artifacts/a0/eb/86/3b57c01995c6daad9f3b47aba7edb72501b915276f47ccf22efe74a37e/itsdangerous-2.1.2-py3-none-any.whl
+Jinja2 @ file:///home/diego.fan/.cache/pypoetry/artifacts/ab/4d/ab/2015d2f5c2ed2ba07a5cbe0dd8507572dd60a930e4d15d1a4146f50ce5/Jinja2-3.1.1-py3-none-any.whl
+Mako @ file:///home/diego.fan/.cache/pypoetry/artifacts/ed/d9/1d/4227f2425d898822edf5239d7ebfd0ab1cb84a54043c686a4459347ff0/Mako-1.2.0-py3-none-any.whl
+MarkupSafe @ file:///home/diego.fan/.cache/pypoetry/artifacts/a1/b5/ec/98e5013eaa2b18e16d1fbb1d7ebf2b940a2f0442dcb1eb2b7d16c220c4/MarkupSafe-2.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+plotly @ file:///home/diego.fan/.cache/pypoetry/artifacts/92/2b/bd/70f1147f2861c1747e282eedb83e5662d2a598f25f3a6c3b49e7ed495b/plotly-5.7.0-py2.py3-none-any.whl
+psycopg2-binary==2.9.3
+six @ file:///home/diego.fan/.cache/pypoetry/artifacts/48/e6/04/8118155ae3ec3a16dd2a213bbf7a7d8a62c596b2e90f73a22c896269f1/six-1.16.0-py2.py3-none-any.whl
+SQLAlchemy @ file:///home/diego.fan/.cache/pypoetry/artifacts/47/bf/ac/072f9e402645a3f2c3316479b96cee5c12e098accc514a3674f2ebb5c7/SQLAlchemy-1.4.35-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+tenacity @ file:///home/diego.fan/.cache/pypoetry/artifacts/44/71/21/397279f8fca199d048595a0942e6b22859b07f13d4e7496ddf932be65d/tenacity-8.0.1-py3-none-any.whl
+Werkzeug @ file:///home/diego.fan/.cache/pypoetry/artifacts/dc/e5/a8/3cf0d3e6a87dad532b035d237e5fe2eba216c4bf45e1f16cfad093bc4f/Werkzeug-2.1.1-py3-none-any.whl
+zipp==3.8.0

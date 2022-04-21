@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, redirect
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
+from dash import Dash
 
 
 db = SQLAlchemy()
@@ -20,7 +21,12 @@ def create_app():
     app.db = db.init_app(app)
     Migrate(app, db)
 
-    @app.route("/")
+
+    @app.route('/')
+    def dash():
+        return 
+
+    @app.route("/comentario")
     def index():
         return render_template(
             'index.html',
